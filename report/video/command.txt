@@ -1,0 +1,2 @@
+python -m cProfile -o resultVideo pi_counter_server.py --input videos/example_01.mp4
+python -m cProfile -o resultVideo pi_counter_server_alpha.py --input videos/example_01.mp4
